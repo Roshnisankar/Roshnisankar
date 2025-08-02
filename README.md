@@ -1,15 +1,14 @@
 # 💫 About Me:
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+[YourName]!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Roshni.S!" />
 </h1>
 
-Aspiring [Your Title, e.g., Backend Developer] | [Secondary Interest, e.g., Python Enthusiast] | [Your Domain, e.g., ML Explorer]  
+Aspiring [Your Title, e.g., Java Developer] | [Secondary Interest, e.g., Python Enthusiast] | [Your Domain, e.g.,]  
 <img align="right" width="270" height="180" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-<br>- 🎯 I enjoy solving real-world problems through code  
-<br>- 🖥️ Check out my [Portfolio](https://yourportfolio.link)  
+<br>- 🎯 I enjoy solving real-world problems through code   
 <br>- 👨‍🏫 I love mentoring peers and sharing what I learn  
-<br>- 💡 Currently passionate about [Your Domains]  
+<br>- 💡 Currently passionate about  
 <br>- 🌱 Learning: [Technologies you're learning now]  
 <br>- ⚡ Fun fact: [Something cool or personal]  
 
