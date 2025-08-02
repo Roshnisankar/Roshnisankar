@@ -8,7 +8,9 @@
 
 <br>- 🎯 I enjoy solving real-world problems through code   
 <br>- 👨‍🏫 I love mentoring peers and sharing what I learn  
+
 <br>- 💡 Currently passionate about  full-stack development
+
 <br>- 🌱 Learning:Mongodb,postgre-sql.
 
 
