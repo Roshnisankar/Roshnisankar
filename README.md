@@ -6,7 +6,8 @@
  Aspiring  front- Developer | Java Programmer | JavaScript Explorer  
 <img align="right" width="270" height="180" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-<br>- 🎯 I enjoy solving real-world problems through code   
+<br>- 🎯 I enjoy solving real-world problems through code 
+
 <br>- 👨‍🏫 I love mentoring peers and sharing what I learn  
 
 <br>- 💡 Currently passionate about  full-stack development
