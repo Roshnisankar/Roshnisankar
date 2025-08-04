@@ -45,7 +45,8 @@
 ---
 
 ## 🧠 Leetcode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/[your-leetcode]?theme=light&font=Outfit)](https://leetcode.com/[your-leetcode])
+
+https://github.com/Roshnisankar
 
 ---
 
