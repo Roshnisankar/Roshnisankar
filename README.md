@@ -50,7 +50,7 @@ https://github.com/Roshnisankar
 
 ---
 ## 📄 View My Resume
-[Download Resume](https://github.com/Roshnisankar/resume.pdf/blob/main/resume.pdf)
+[Download Resume](https://github.com/Roshnisankar/resume.pdf)
 
 
 ## 🔧 Tools & IDEs:
