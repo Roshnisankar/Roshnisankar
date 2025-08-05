@@ -20,7 +20,7 @@
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin]) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/[your-leetcode]/) 
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:[your.email@gmail.com]) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:[roshnisankarrose@gmail.com]) 
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## 🧠 Leetcode Stats
 
-https://github.com/Roshnisankar
+
 
 ---
 ## 📄 View My Resume
