@@ -49,6 +49,9 @@
 https://github.com/Roshnisankar
 
 ---
+## 📄 View My Resume
+[Download Resume](https://github.com/Roshnisankar//blob/main/resume.pdf)
+
 
 ## 🔧 Tools & IDEs:
 <img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
